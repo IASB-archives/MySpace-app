@@ -1,9 +1,16 @@
 <resources>
-
+    //
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Clear</string>
+    <string name="action_clear_all">Clear All</string>
+
+    // Preferences
+    <string name="app_pref_file">MySpaaceAppPreference</string>
+    <string name="pref_yob">yearOfBirth</string>
+    <string name="pref_mob">monthOfBirth</string>
+    <string name="pref_dob">dayOfBirth</string>
 </resources>
